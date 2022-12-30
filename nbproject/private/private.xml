@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/models/backendmodels/AuthorManager.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/SplClassLoader.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/views/template.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/controllers/backendcontrollers/formaccesscontroler.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/views/backend/formaccess/formaccessview.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/PDO.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/instanceSplClassLoader.php</file>
+            <file>file:/Applications/MAMP/htdocs/Forteroche/blogenalaska/models/backendmodels/Manager.php</file>
+        </group>
+    </open-files>
+</project-private>

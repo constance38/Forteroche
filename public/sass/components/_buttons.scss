@@ -1,0 +1,26 @@
+/* 
+    Created on : 25 avr. 2020, 20:22:39
+    Author     : constancelaloux
+*/
+
+/*Datatables*/
+button#btn-delete.btn.btn-danger
+{
+    margin: 2px !important;
+}
+
+button#btn-update.btn.btn-success
+{
+    margin: 2px;
+}
+
+/*Form*/
+button.btn-primary{
+    background-color: $warning;
+    border-color: $transparent-color;
+}
+
+button.btn-primary:hover{
+    background-color:$secondary-color;
+    border-color: $transparent-color; 
+}
